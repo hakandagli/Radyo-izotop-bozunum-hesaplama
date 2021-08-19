@@ -6,4 +6,3 @@
 
 <b>Kullanılan Kaynaklar</b> : https://www.sciencedirect.com/topics/chemistry/radioactive-decay
 
-<b>Proje Geliştirenler:</b> Alaz Yula, Hakan Dağlı, Mustafa İsmail Türkoğlu
